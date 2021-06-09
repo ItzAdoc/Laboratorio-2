@@ -28,7 +28,7 @@ __3. Explicación del Procedimiento__
 
 4. Se usa ley de Kirchhoff para plantear las ecuaciones de cada una de las mallas 
 
-Primero se deja todo en las mismas unidades, en este caso en kΩ
+Primero se deja todo en las mismas unidades, en este caso en kΩ y luego se analiza las mallas.
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/2.PNG)
 
@@ -38,8 +38,16 @@ Primero se deja todo en las mismas unidades, en este caso en kΩ
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Ecu.PNG)
 
-* Se saca el determinante del sistema a partir de los coeficientes 
-* ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/3.1.PNG)
+* Se saca el determinante del sistema a partir de los coeficientes con la regla de Sarrus, la cual nos dice que dupliquemos las 2 primeras filas y se las ubica después de la última fila. Lugo se multiplica en diagonal, los productos de las líneas rojas se restan con los productos de las líneas azules.
+ 
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/3.1.PNG)
+
+Luego para sacar el determinante de la primera incognita en este caso I1, se reemplaza los terminos independientes en la columna donde va I1, las 2 columnas restantes se mantienen y se resuelve con Sarrus.
+
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/3.2.PNG)
+
+Se hace lo mismo que en I1 con I2 y I3 
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/4.PNG)
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
