@@ -39,7 +39,7 @@ Primero se deja todo en las mismas unidades, en este caso todas las resistencias
 
 * Se saca el determinante del sistema a partir de los coeficientes con la regla de Sarrus, la cual nos dice que dupliquemos las 2 primeras filas y se las ubica después de la última fila. Lugo se multiplica en diagonal, los productos de las líneas rojas se restan con los productos de las líneas azules.
  
-![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/3.1.PNG)
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/3.1b.PNG)
 
 Luego para sacar el determinante de la primera incógnita en este caso I1, se reemplaza los términos independientes en la columna donde va I1, las 2 columnas restantes se mantienen y se resuelve con Sarrus.
 
@@ -50,7 +50,7 @@ Se hace lo mismo que en I1 con I2 y I3
 
 Por último con todos los datos se reemplaza en las fórmulas para obtener los valores de las 3 corrientes.
 
-![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/5.PNG)
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/5.1.PNG)
 
 Los valores negativos de las respuestas señala que los sentidos de la corriente son al contrario. 
 
@@ -75,6 +75,7 @@ Cálculo de Error
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/error.PNG)
 
 __5. Video__
+
 https://www.youtube.com/watch?v=2VfxbLnzNWg
 
 __6. Coclusiones__ 
