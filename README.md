@@ -3,7 +3,11 @@
 __1. Objetivos__
 
 Objetivos Generales 
-* 
+* a
+* b
+* n
+
+
 Objetivos Específicos 
 * 1
 * 2
@@ -20,19 +24,19 @@ __3. Explicación del Procedimiento__
 
 1. Se crea el circuito en un software, en este caso proteus.
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Circuito.PNG)
-2. Se mide las intensidades en cada malla con un amperimetro en serie y se anota en la tabla.
+2. Se mide las intensidades en cada malla con un amperímetro en serie y se anota en la tabla.
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Medidas.PNG)
 
-3. Se determina el sentido de corriente de cada una de las mallas 
+3. Se determina el sentido de corriente de cada una de las mallas. 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Sentido.PNG)
 
-4. Se usa ley de Kirchhoff para plantear las ecuaciones de cada una de las mallas 
+4. Se usa ley de Kirchhoff para plantear las ecuaciones de cada una de las mallas. 
 
-Primero se deja todo en las mismas unidades, en este caso en kΩ y luego se analiza las mallas.
+Primero se deja todo en las mismas unidades, en este caso todas las resistencias en  kΩ y luego se analizan las mallas.
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/2.PNG)
 
-5. Se resuelve el sistemas de ecuaciones en este caso por Regla de Cramer
+5. Se resuelve el sistemas de ecuaciones en este caso por Regla de Cramer.
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Ecu.PNG)
 
@@ -40,18 +44,18 @@ Primero se deja todo en las mismas unidades, en este caso en kΩ y luego se anal
  
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/3.1.PNG)
 
-Luego para sacar el determinante de la primera incognita en este caso I1, se reemplaza los terminos independientes en la columna donde va I1, las 2 columnas restantes se mantienen y se resuelve con Sarrus.
+Luego para sacar el determinante de la primera incógnita en este caso I1, se reemplaza los términos independientes en la columna donde va I1, las 2 columnas restantes se mantienen y se resuelve con Sarrus.
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/3.2.PNG)
 
 Se hace lo mismo que en I1 con I2 y I3 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/4.PNG)
 
-Por último con todos los datos se reemplaza en las fórmulas para determinar los valores de las 3 corrientes.
+Por último con todos los datos se reemplaza en las fórmulas para obtener los valores de las 3 corrientes.
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/5.PNG)
 
-Los valores negativos de las respuestas señala que los sentidos de la corriente son al contrario 
+Los valores negativos de las respuestas señala que los sentidos de la corriente son al contrario. 
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
@@ -77,7 +81,10 @@ __5. Video__
 
 
 __6. Coclusiones__ 
-
+* a
+* b
+* c
+* n
 
 
 __7. Bibliografía__
