@@ -50,6 +50,7 @@ Se hace lo mismo que en I1 con I2 y I3
 Por último con todos los datos se reemplaza en las fórmulas para determinar los valores de las 3 corrientes.
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/5.PNG)
+
 __4. Respuesta a Interrogantes y Calculo de Error__
 
 2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
@@ -66,6 +67,7 @@ en la tabla 2.1.
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/tabla.PNG)
 
+Cálculo de Error
 
 __5. Video__
 
