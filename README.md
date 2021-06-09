@@ -51,6 +51,8 @@ Por último con todos los datos se reemplaza en las fórmulas para determinar lo
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/5.PNG)
 
+Los valores negativos de las respuestas señala que los sentidos de la corriente son al contrario 
+
 __4. Respuesta a Interrogantes y Calculo de Error__
 
 2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
@@ -65,9 +67,11 @@ en la tabla 2.1.
 2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
-![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/tabla.PNG)
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/tablaA.PNG)
 
 Cálculo de Error
+
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/error.PNG)
 
 __5. Video__
 
