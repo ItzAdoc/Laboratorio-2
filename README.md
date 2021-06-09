@@ -82,7 +82,7 @@ __6. Coclusiones__
 * La ley de nodos se cumple en ambos casos del circuito.
 * La ley de mallas se cumplió con los valores experimentales del circuito.
 * La ley de nodos está relacionada en la ley de la conservación de la carga así como la ley de mallas está relacionada con la ley de la conservación de la energía.
-* 
+
 __7. Bibliografía__
 * *Las leyes de Kirchhoff (artículo). (s. f.).* Khan Academy. Recuperado 2 de junio de 2021, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 *  *El método de la corriente de malla (artículo).* (s. f.). Khan Academy. Recuperado 9 de junio de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
