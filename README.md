@@ -75,7 +75,7 @@ Cálculo de Error
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/error.PNG)
 
 __5. Video__
-
+https://www.youtube.com/watch?v=2VfxbLnzNWg
 
 __6. Coclusiones__ 
 * Existe un pequeño porcentaje de error en cuanto las corrientes halladas  analíticamente con las medidas en la práctica, pero es debido a que en la analítica se ignoran muchos decimales en el proceso.
