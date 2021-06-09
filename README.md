@@ -17,7 +17,7 @@ Objetivos Específicos
 
 __2. Marco Teórico__ 
 
-![]()
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Marco.PNG)
 
 
 __3. Explicación del Procedimiento__
@@ -88,3 +88,5 @@ __6. Coclusiones__
 
 
 __7. Bibliografía__
+* *Las leyes de Kirchhoff (artículo). (s. f.).* Khan Academy. Recuperado 2 de junio de 2021, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+* 
