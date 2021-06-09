@@ -11,7 +11,7 @@ Objetivos Específicos
 * Comparar los valores obtenidos experimentalmente, con los obtenidos del cálculo aplicando las leyes de Kirchhoff.
 * Afianzar experimentalmente las leyes de conservación de la energía eléctrica
 * Verificar las leyes de Kirchhoff: Ley de Mallas y Ley de Nodos.
-* 
+
 __2. Marco Teórico__ 
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Marco.PNG)
