@@ -15,7 +15,7 @@ Objetivos Específicos
 __2. Marco Teórico__ 
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Marco.PNG)
-
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Marco2.PNG)
 
 __3. Explicación del Procedimiento__
 
