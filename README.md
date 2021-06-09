@@ -89,4 +89,4 @@ __6. Coclusiones__
 
 __7. Bibliografía__
 * *Las leyes de Kirchhoff (artículo). (s. f.).* Khan Academy. Recuperado 2 de junio de 2021, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
-* 
+*  *El método de la corriente de malla (artículo).* (s. f.). Khan Academy. Recuperado 9 de junio de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
