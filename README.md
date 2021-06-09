@@ -3,18 +3,15 @@
 __1. Objetivos__
 
 Objetivos Generales 
-* a
-* b
-* n
-
+* Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
+Kirchhoff de Corrientes.
 
 Objetivos Específicos 
-* 1
-* 2
-* 3
-* n
-
-
+* Comprobar experimentalmente el análisis de mallas.
+* Comparar los valores obtenidos experimentalmente, con los obtenidos del cálculo aplicando las leyes de Kirchhoff.
+* Afianzar experimentalmente las leyes de conservación de la energía eléctrica
+* Verificar las leyes de Kirchhoff: Ley de Mallas y Ley de Nodos.
+* 
 __2. Marco Teórico__ 
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Marco.PNG)
@@ -81,12 +78,11 @@ __5. Video__
 
 
 __6. Coclusiones__ 
-* a
-* b
-* c
-* n
-
-
+* Existe un pequeño porcentaje de error en cuanto las corrientes halladas  analíticamente con las medidas en la práctica, pero es debido a que en la analítica se ignoran muchos decimales en el proceso.
+* La ley de nodos se cumple en ambos casos del circuito.
+* La ley de mallas se cumplió con los valores experimentales del circuito.
+* La ley de nodos está relacionada en la ley de la conservación de la carga así como la ley de mallas está relacionada con la ley de la conservación de la energía.
+* 
 __7. Bibliografía__
 * *Las leyes de Kirchhoff (artículo). (s. f.).* Khan Academy. Recuperado 2 de junio de 2021, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 *  *El método de la corriente de malla (artículo).* (s. f.). Khan Academy. Recuperado 9 de junio de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
