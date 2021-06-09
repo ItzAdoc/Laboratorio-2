@@ -56,6 +56,12 @@ Los valores negativos de las respuestas señala que los sentidos de la corriente
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
+2.5.1. Implemente el circuito que se presenta en la figura 2.1.
+
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Circ1.PNG)
+
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Circuito.PNG)
+
 2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Medidas.PNG)
