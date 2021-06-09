@@ -32,8 +32,6 @@ Primero se deja todo en las mismas unidades, en este caso en kΩ y luego se anal
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/1.PNG)
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/2.PNG)
 
-
-
 5. Se resuelve el sistemas de ecuaciones en este caso por Regla de Cramer
 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/Ecu.PNG)
@@ -49,6 +47,9 @@ Luego para sacar el determinante de la primera incognita en este caso I1, se ree
 Se hace lo mismo que en I1 con I2 y I3 
 ![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/4.PNG)
 
+Por último con todos los datos se reemplaza en las fórmulas para determinar los valores de las 3 corrientes.
+
+![](https://github.com/ItzAdoc/Imagenes_L2/blob/main/5.PNG)
 __4. Respuesta a Interrogantes y Calculo de Error__
 
 2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
